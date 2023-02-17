@@ -5,4 +5,8 @@
   <artifactId>pacman</artifactId>
   <version>1.0</version>
   <name>pacman</name>
+    <properties>
+        <maven.compiler.source>19</maven.compiler.source>
+        <maven.compiler.target>19</maven.compiler.target>
+    </properties>
 </project>
