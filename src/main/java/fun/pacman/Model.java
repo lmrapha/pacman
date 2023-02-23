@@ -12,7 +12,7 @@ import javax.swing.JPanel;
 import javax.swing.Timer;
 
 /**
- * Model class containing the logic of the Pacman Game
+ * Model class containing the game logic
  *
  * @author lmr
  */
